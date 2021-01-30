@@ -5,5 +5,5 @@ tcc etc.c main.c -o as
 ./as foo.asm
 ```
 
-For learning purposes only. The only thing working is the  
-`mov` instruction.
+For learning purposes only. Pretty much the only thing  
+working is mov.
